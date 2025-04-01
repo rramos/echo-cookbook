@@ -12,5 +12,6 @@ Check the Echo Framework at <https://echo.labstack.com>
 
 ## Applications ##
 
-* `./crud`: CRUD simple server application
+* `./crud`: CRUD simple server
+* `./jwt`: JWT example server
 
